@@ -17,6 +17,8 @@ A command-line tool for scraping [Amazon](https://www.amazon.com/) product data 
 
 To launch the Amazon scraper locate the `amazon-product-scraper` folder via terminal and type `python scraper.py -k "your keyword"`. This will start the program. 
 
+To launch the Amazon scraper locate the `ebay-product-scraper` folder via terminal and type `python ebay_scraper.py -k "your keyword"`. This will start the program. 
+
 ***NOTE: you must declare either*** `-k` or `--keyword` ***before entering your keyword. It's a required argument.***
 
 ### Example of product data #1: JSON
